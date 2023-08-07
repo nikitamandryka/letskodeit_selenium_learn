@@ -1,0 +1,41 @@
+08/07/2023 06:11:03 PM - LoginPage - INFO: Locator type xpath  not correct/supported
+08/07/2023 06:11:03 PM - LoginPage - INFO: Element not found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath 
+08/07/2023 06:11:03 PM - LoginPage - INFO: Cannot click on the element with locator: //a[contains(text(),'Sign In')] locatorType: xpath 
+08/07/2023 06:11:03 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+08/07/2023 06:11:03 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+08/07/2023 06:11:03 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+08/07/2023 06:11:03 PM - LoginPage - INFO: Sent data on element with locator: login-password locatorType: id
+08/07/2023 06:11:03 PM - LoginPage - INFO: Element found with locator: login and  locatorType: id
+08/07/2023 06:11:03 PM - LoginPage - INFO: Clicked on element with locator: login locatorType: id
+08/07/2023 06:11:06 PM - NavigationPage - INFO: Element not found with locator: My Courses and  locatorType: link
+08/07/2023 06:11:06 PM - NavigationPage - INFO: Cannot click on the element with locator: My Courses locatorType: link
+08/07/2023 06:11:09 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@id='search'] and  locatorType: xpath
+08/07/2023 06:11:09 PM - RegisterCoursesPage - INFO: Cannot send data on the element with locator: //input[@id='search'] locatorType: xpath
+08/07/2023 06:11:13 PM - RegisterCoursesPage - INFO: Element found with locator: //a[@href='/courses/javascript-for-beginners'] and  locatorType: xpath
+08/07/2023 06:11:17 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //a[@href='/courses/javascript-for-beginners'] locatorType: xpath
+08/07/2023 06:11:17 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@class='dynamic-button btn btn-default btn-lg btn-enroll'] and  locatorType: xpath
+08/07/2023 06:11:20 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@class='dynamic-button btn btn-default btn-lg btn-enroll'] locatorType: xpath
+08/07/2023 06:11:24 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@placeholder='Card Number'] and  locatorType: id
+08/07/2023 06:11:24 PM - RegisterCoursesPage - INFO: Cannot send data on the element with locator: //input[@placeholder='Card Number'] locatorType: id
+08/07/2023 06:11:27 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@placeholder='MM / YY'] and  locatorType: id
+08/07/2023 06:11:27 PM - RegisterCoursesPage - INFO: Cannot send data on the element with locator: //input[@placeholder='MM / YY'] locatorType: id
+08/07/2023 06:11:30 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@placeholder='Security Code'] and  locatorType: id
+08/07/2023 06:11:30 PM - RegisterCoursesPage - INFO: Cannot send data on the element with locator: //input[@placeholder='Security Code'] locatorType: id
+08/07/2023 06:11:30 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@class='zen-subscribe sp-buy btn btn-default btn-lg btn-block btn-gtw btn-submit checkout-button dynamic-button'] and  locatorType: xpath
+08/07/2023 06:11:30 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@class='zen-subscribe sp-buy btn btn-default btn-lg btn-block btn-gtw btn-submit checkout-button dynamic-button'] locatorType: xpath
+08/07/2023 06:11:33 PM - NavigationPage - INFO: Element not found with locator: My Courses and  locatorType: link
+08/07/2023 06:11:33 PM - NavigationPage - INFO: Cannot click on the element with locator: My Courses locatorType: link
+08/07/2023 06:11:36 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@id='search'] and  locatorType: xpath
+08/07/2023 06:11:36 PM - RegisterCoursesPage - INFO: Cannot send data on the element with locator: //input[@id='search'] locatorType: xpath
+08/07/2023 06:11:39 PM - RegisterCoursesPage - INFO: Element not found with locator: //a[@href='/courses/javascript-for-beginners'] and  locatorType: xpath
+08/07/2023 06:11:39 PM - RegisterCoursesPage - INFO: Cannot click on the element with locator: //a[@href='/courses/javascript-for-beginners'] locatorType: xpath
+08/07/2023 06:11:42 PM - RegisterCoursesPage - INFO: Element not found with locator: //button[@class='dynamic-button btn btn-default btn-lg btn-enroll'] and  locatorType: xpath
+08/07/2023 06:11:42 PM - RegisterCoursesPage - INFO: Cannot click on the element with locator: //button[@class='dynamic-button btn btn-default btn-lg btn-enroll'] locatorType: xpath
+08/07/2023 06:11:45 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@placeholder='Card Number'] and  locatorType: id
+08/07/2023 06:11:45 PM - RegisterCoursesPage - INFO: Cannot send data on the element with locator: //input[@placeholder='Card Number'] locatorType: id
+08/07/2023 06:11:48 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@placeholder='MM / YY'] and  locatorType: id
+08/07/2023 06:11:48 PM - RegisterCoursesPage - INFO: Cannot send data on the element with locator: //input[@placeholder='MM / YY'] locatorType: id
+08/07/2023 06:11:51 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@placeholder='Security Code'] and  locatorType: id
+08/07/2023 06:11:51 PM - RegisterCoursesPage - INFO: Cannot send data on the element with locator: //input[@placeholder='Security Code'] locatorType: id
+08/07/2023 06:11:51 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@class='zen-subscribe sp-buy btn btn-default btn-lg btn-block btn-gtw btn-submit checkout-button dynamic-button'] and  locatorType: xpath
+08/07/2023 06:11:51 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@class='zen-subscribe sp-buy btn btn-default btn-lg btn-block btn-gtw btn-submit checkout-button dynamic-button'] locatorType: xpath
